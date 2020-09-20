@@ -30,6 +30,6 @@ From our summary statistics on the month for temperatures in June and December i
   ![](Resources/junerain.PNG)
   
 ### Query to Retrieve December Precipitation
-  ![](Resources/decemberain.PNG)
+  ![](Resources/decemberrain.PNG)
   
 After we retrieve the precipitation data for both the months, we can further analyze these data and along with the analysis of our temperature data we can decide if Oahu is indeed the ideal location to open the surf shop. 
